@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - 🌱 I'm currently learning Next.js, Full-Stack Web Development, and Advanced Informatics.
 - 🤝 I'm looking to collaborate on Open Source Projects, Creative Media Designs, or Web Apps.
